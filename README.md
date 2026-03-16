@@ -113,7 +113,7 @@ def listarTareas(self):
             print(f"[ ] {tarea.obtenerNombre()}" ) <<<<< y esta
 ```
 
-2. **Persona 🅱️** actualizará el repositorio remoto según las instrucciones de la parte 3, páso 2.
+2. **Persona 🅱️** actualizará el repositorio remoto según las instrucciones de la parte 3, paso 2.
 
 3. **Persona 🅰️** (SIN DESCARGAR LOS CAMBIOS DE LA OTRA PERSONA) editará la siguiente línea del mismo archivo:
 

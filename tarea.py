@@ -1,4 +1,5 @@
 class Tarea:
+    
     def __init__(self, nombre):
         self.nombre = nombre
         self.listo = False
@@ -10,4 +11,4 @@ class Tarea:
         return self.listo
 
     def terminar(self):
-        self.listo = True
+        self.listo = True # Added
